@@ -1,6 +1,8 @@
 <!-- ![Imagen decorativa de tu perfil](https://raw.githubusercontent.com/DorianCursos/DorianCursos/main/mini.jpg) -->
 
-<img src="https://raw.githubusercontent.com/DorianCursos/DorianCursos/main/mini.jpg" alt="Imagen decorativa del perfil">
+<div align="center">
+  <img src="https://raw.githubusercontent.com/DorianCursos/DorianCursos/main/mini.jpg" alt="Imagen decorativa del perfil">
+</div>
 
 <!-- Generado con https://rahuldkjain.github.io/gh-profile-readme-generator/ -->
 <h1 align="center">Hola 👋, Soy TU NOMBRE</h1>
